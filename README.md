@@ -1,4 +1,4 @@
-# Uber-Case-Study---Applying-Machine-Learning-to-Improve-the-Customer-Experience
+# HBR-Uber-Case-Study---Applying-Machine-Learning-to-Improve-the-Customer-Experience
 
 The following questions were addressed in the Harvard Business Review Uber Case Study:
 
